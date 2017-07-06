@@ -1,0 +1,21 @@
+h1 {
+  font-family: Arial, Monospace;
+}
+#main-well {
+  margin-top: 40px;
+  margin-right: 80px;
+  margin-bottom: 40px;
+  margin-left: 80px;
+}
+
+#ChomskyPic {
+  margin: 10px 20px 10px 20px;
+}
+
+#Timeline {
+  margin: 5px 100px 5px 140px;
+}
+
+#MoreInfo {
+  margin: 0px -20px 0px -20px
+}
